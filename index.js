@@ -22,3 +22,4 @@ let followers = 109; // ❌ the keyword to declare the variable is missing
 let following = 200; // ❌ the keyword to declare the variable is missing 
 
 // 🏁 Exercise 02 - David is following one more account increment the total of following account
+following = 200 + 1;
